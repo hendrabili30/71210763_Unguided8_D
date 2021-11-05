@@ -1,0 +1,5 @@
+ Terdapat 7 buah gelas kosong yang akan diisi air. Silahkan tentukan gelas mana yang terisi 
+lebih dahulu dan berikan penjelasannya!
+jawaban :
+dari gelas-gelas tersebut, gelas yang terisi penuh adalah gelas No.4. 
+karena dari setiap jalur/selang yang akan menuju ke gelas-yang lainnya tertutup hanya gelas No.4 saja yang terbuka. sehingga gelas No.4 saja yang terisi penuh.
